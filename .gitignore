@@ -58,3 +58,5 @@ build/
 ### Runner Lite ###
 info
 qrs
+.jpb
+*.properties
